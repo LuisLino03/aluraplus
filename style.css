@@ -121,5 +121,5 @@ body{
     line-height: 1.5em;
 }
 .lista__link a:hover{
-    color: var(--botao-azul);
+    color: #c0c0c0;
 }
